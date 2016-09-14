@@ -23,9 +23,8 @@ input{
 }
 
 .gallery-item{
-		width:20vw;
-		height:20vw;
-		margin-left: 10%;
+		width:50vw;
+		margin-left: 4vw;
 		margin-top: 4%;
 		margin-bottom: 1%;
 	}
