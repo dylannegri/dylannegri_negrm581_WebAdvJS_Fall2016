@@ -140,7 +140,7 @@ app.main = (function() {
 			// Page with filtered students
 			'#filter': function() {
 				// Grab the string after the '#filter/' keyword. Call the filtering function.
-				url = url.split('#filter/');//[1].trim();
+				url = url.split('#filter/'[1]);//[1].trim();
 				console.log("url");
 
 				//what??? // Try and parse the filters object from the query string.
@@ -346,7 +346,7 @@ app.main = (function() {
 			//var clean_url = temp.replace('}', '').replace(':','');
 			// console.log(clean_url);
 
-			window.location.hash = '#filter/'; //+ clean_url;
+			window.location.hash = '#filter/' +str; //+ clean_url;
 		}
 		else{
 			// If it's empty change the hash to '#' (the homepage).
