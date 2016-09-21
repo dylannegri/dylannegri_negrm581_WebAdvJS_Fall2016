@@ -18,7 +18,7 @@ app.main = (function() {
 
 		$('#searchGiphy').on('click',function(){
 			console.log($('#giphy').val());
-			loadData($('#giphy').val());
+			loadData($('#giphy').val() += 1);
 		})
 		$('#giphy').keypress(function(e){
 			if(e.keyCode == 13){
@@ -35,7 +35,7 @@ app.main = (function() {
 		$.ajax ({
 			url: myURL,
 			data: {
-				limit: 40
+				limit: 1
 			},
 
 			 success: function(response){
@@ -54,6 +54,7 @@ app.main = (function() {
 
 		for(var i = 0; i < data.length; i++){
 			$('#view').append('<img src="' + data[i].images.fixed_height.url + '" class="gallery-item" />');
+
 		}
 	}
 
