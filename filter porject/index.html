@@ -31,17 +31,18 @@
 						<label><input type="checkbox" name="thesis-category" value="soniclandscapes">Sonic Landscapes</label>
 
 						<!-- my input for homework -->
-						<label><input type="checkbox" name="studio-professor-2" value="AnetaGenova">Aneta Genova</label>
-						<label><input type="checkbox" name="studio-professor-2" value="DavidCarroll">David Carroll</label>
-						<label><input type="checkbox" name="studio-professor-1" value="JohnSharp">John Sharp</label>
-						<label><input type="checkbox" name="studio-professor-1" value="ScottPobiner">Scott Pobiner</label>
-						<label><input type="checkbox" name="studio-professor-1" value="MelanieCrean">Melonie Crean</label>
-						<label><input type="checkbox" name="studio-professor-2" value="KateSicchio">Kate Sicchio</label>
-						<label><input type="checkbox" name="studio-professor-2" value="MarkoTandefelt">Marko Tandefelt</label>
-						<label><input type="checkbox" name="studio-professor-1" value="SvenTravis">Sven Travis</label>
-						<label><input type="checkbox" name="studio-professor-2" value="JesseHarding">Jesse Harding</label>
-						<label><input type="checkbox" name="studio-professor-2" value="AnezkaSebek">Anezka Sebek</label>
-						<label><input type="checkbox" name="studio-professor-1" value="Brad MacDonald">Brad MacDonald</label>
+						<span style="padding-top:10px;">Studio Professors</span>
+						<label><input type="checkbox" name="studio-professor-2" value="anetagenova">Aneta Genova</label>
+						<label><input type="checkbox" name="studio-professor-2" value="davidcarroll">David Carroll</label>
+						<label><input type="checkbox" name="studio-professor-1" value="johnsharp">John Sharp</label>
+						<label><input type="checkbox" name="studio-professor-1" value="scottpobiner">Scott Pobiner</label>
+						<label><input type="checkbox" name="studio-professor-1" value="melaniecrean">Melonie Crean</label>
+						<label><input type="checkbox" name="studio-professor-2" value="katesicchio">Kate Sicchio</label>
+						<label><input type="checkbox" name="studio-professor-2" value="markotandefelt">Marko Tandefelt</label>
+						<label><input type="checkbox" name="studio-professor-1" value="sventravis">Sven Travis</label>
+						<label><input type="checkbox" name="studio-professor-2" value="jesseharding">Jesse Harding</label>
+						<label><input type="checkbox" name="studio-professor-2" value="anezkasebek">Anezka Sebek</label>
+						<label><input type="checkbox" name="studio-professor-1" value="bradmacdonald">Brad MacDonald</label>
 					</div>
 
 
@@ -58,13 +59,15 @@
 							<h3>{{project.title}}</h3>
 							<ul class="project-description">
 								<li><span>Category: </span>{{project.thesis-category}}</li>
-								<li>{{project.studio-professor}}</li>
+								<li>{{project.studio-professor-1}}</li>
+								<li>{{project.studio-professor-2}}</li>
+
 							</ul>
 
 
 						</li>
 					{{/each}}
-				</script> 
+				</script>
 			</ul>
 
 		</div>

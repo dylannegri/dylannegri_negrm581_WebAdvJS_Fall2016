@@ -140,8 +140,8 @@ app.main = (function() {
 			// Page with filtered students
 			'#filter': function() {
 				// Grab the string after the '#filter/' keyword. Call the filtering function.
-				url = url.split('#filter/'[1]);//[1].trim();
-				console.log("url");
+				url = url.split('#filter/')[1];//[1].trim();
+				console.log(url);
 
 				//what??? // Try and parse the filters object from the query string.
 				try {
@@ -269,7 +269,7 @@ app.main = (function() {
 	function renderFilterResults(filters, students){
 
 			// This array contains all the possible filter criteria.
-		var criteria = ['thesis-category','studio-professor'],
+		var criteria = ['thesis-category','studio-professor-1','studio-professor-2'],
 			results = [],
 			isFiltered = false;
 
@@ -339,6 +339,7 @@ app.main = (function() {
 
 			// since filters is an object we need to stringify it
 			var str = JSON.stringify(filters);
+			console.log(str);
 			// this is the output {"thesis-category"=["dataart"]}
 			// we just want a substring of the category name
 			//var temp = str.substr(19, str.length-1);
@@ -346,7 +347,7 @@ app.main = (function() {
 			//var clean_url = temp.replace('}', '').replace(':','');
 			// console.log(clean_url);
 
-			window.location.hash = '#filter/' +str; //+ clean_url;
+			window.location.hash = '#filter/' + str; //+ clean_url;
 		}
 		else{
 			// If it's empty change the hash to '#' (the homepage).
