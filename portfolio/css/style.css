@@ -57,6 +57,7 @@ section p {
 section .cv{
 	width: 80vw;
 	float: left;
+	font-size: 20px;
 	padding: 2%;
 	box-sizing: border-box;
 }
@@ -149,9 +150,9 @@ section .items {
 		width: calc(80vw / 4);
 		height: calc(80vw / 4);
 	}
-	section .cv {
-		width: calc(80vw / 3);
-	}
+/*	section .cv {
+		width: calc(80vw / 4);
+	}*/
 }
 
 /* FOR MOBILE DEVICES*/
