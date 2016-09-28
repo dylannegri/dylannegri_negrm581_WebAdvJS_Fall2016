@@ -54,6 +54,12 @@ section p {
 	padding: 2%;
 	box-sizing: border-box;
 }
+section .cv{
+	width: 80vw;
+	float: left;
+	padding: 2%;
+	box-sizing: border-box;
+}
 
 /* GRID */
 section #work {
@@ -123,6 +129,9 @@ section .items {
 	section p {
 		width: calc(80vw / 2);
 	}
+	section .cv {
+		width: calc(80vw / 2);
+	}
 	header #desktop {
 		display:block;
 	}
@@ -139,6 +148,9 @@ section .items {
 	section .items {
 		width: calc(80vw / 4);
 		height: calc(80vw / 4);
+	}
+	section .cv {
+		width: calc(80vw / 3);
 	}
 }
 
