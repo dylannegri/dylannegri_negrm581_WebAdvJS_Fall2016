@@ -1,0 +1,737 @@
+[
+  {
+    "topSongs": []
+  },
+  {
+    "topSongs": []
+  },
+  {
+    "topSongs": []
+  },
+  {
+    "topSongs": []
+  },
+  {
+    "topSongs": []
+  },
+  {
+    "topSongs": []
+  },
+  {
+    "topSongs": []
+  },
+  {
+    "topSongs": [
+      {
+        "title": "Closer",
+        "artist": "http://www.billboard.com/artist/5794072/the-chainsmokers",
+        "currentRank": "1",
+        "lastWeekRank": "Last Week: 1",
+        "poster": "background-image: url(http://www.billboard.com/images/pref_images/q56523k8p5q.jpg)"
+      },
+      {
+        "title": "Heathens",
+        "artist": "http://www.billboard.com/artist/430557/twenty-one-pilots",
+        "currentRank": "2",
+        "lastWeekRank": "Last Week: 2",
+        "poster": "background-image: url(http://www.billboard.com/images/pref_images/q39056czrzc.jpg)"
+      },
+      {
+        "title": "Cold Water",
+        "artist": "http://www.billboard.com/artist/308937/major-lazer",
+        "currentRank": "3",
+        "lastWeekRank": "Last Week: 3",
+        "poster": "background-image: url(http://www.billboard.com/images/pref_images/q37570nx70w.jpg)"
+      },
+      {
+        "title": "Let Me Love You",
+        "artist": "http://www.billboard.com/artist/1488413/dj-snake",
+        "currentRank": "4",
+        "lastWeekRank": "Last Week: 6",
+        "poster": "background-image: url(http://www.billboard.com/images/pref_images/q58635xjm0i.jpg)"
+      },
+      {
+        "title": "Cheap Thrills",
+        "artist": "http://www.billboard.com/artist/279248/sia",
+        "currentRank": "5",
+        "lastWeekRank": "Last Week: 4",
+        "poster": "background-image: url(http://www.billboard.com/images/pref_images/q48642a2jvd.jpg)"
+      },
+      {
+        "title": "Treat You Better",
+        "artist": "http://www.billboard.com/artist/6143288/shawn-mendes",
+        "currentRank": "6",
+        "lastWeekRank": "Last Week: 8",
+        "poster": "background-image: url(http://www.billboard.com/images/pref_images/q54451rbcic.jpg)"
+      },
+      {
+        "title": "Don't Let Me Down",
+        "artist": "http://www.billboard.com/artist/5794072/the-chainsmokers",
+        "currentRank": "7",
+        "lastWeekRank": "Last Week: 5",
+        "poster": "background-image: url(http://www.billboard.com/images/pref_images/q56523k8p5q.jpg)"
+      },
+      {
+        "title": "Broccoli",
+        "artist": "http://www.billboard.com/artist/6620442/dram",
+        "currentRank": "8",
+        "lastWeekRank": "Last Week: 12",
+        "poster": "background-image: url(http://www.billboard.com/images/pref_images/q58396y87pz.jpg)"
+      },
+      {
+        "title": "We Don't Talk Anymore",
+        "artist": "http://www.billboard.com/artist/6473237/charlie-puth",
+        "currentRank": "9",
+        "lastWeekRank": "Last Week: 13",
+        "poster": "background-image: url(http://www.billboard.com/images/pref_images/q46483ubdhf.jpg)"
+      },
+      {
+        "title": "This Is What You Came For",
+        "artist": "http://www.billboard.com/artist/275856/calvin-harris",
+        "currentRank": "10",
+        "lastWeekRank": "Last Week: 7",
+        "poster2": "http://www.billboard.com/images/pref_images/q37000tpld3.jpg"
+      },
+      {
+        "title": "Ride",
+        "artist": "http://www.billboard.com/artist/430557/twenty-one-pilots",
+        "currentRank": "11",
+        "lastWeekRank": "Last Week: 9",
+        "poster2": "http://www.billboard.com/images/pref_images/q39056czrzc.jpg"
+      },
+      {
+        "title": "Needed Me",
+        "artist": "http://www.billboard.com/artist/365068/rihanna",
+        "currentRank": "12",
+        "lastWeekRank": "Last Week: 11",
+        "poster2": "http://www.billboard.com/images/pref_images/q55103nkulw.jpg"
+      },
+      {
+        "title": "Send My Love (To Your New Lover)",
+        "artist": "http://www.billboard.com/artist/278035/adele",
+        "currentRank": "13",
+        "lastWeekRank": "Last Week: 10",
+        "poster2": "http://www.billboard.com/images/pref_images/q42396myajr.jpg"
+      },
+      {
+        "title": "One Dance",
+        "artist": "http://www.billboard.com/artist/301284/drake",
+        "currentRank": "14",
+        "lastWeekRank": "Last Week: 14",
+        "poster2": "http://www.billboard.com/images/pref_images/q55963rka7z.jpg"
+      },
+      {
+        "title": "Too Good",
+        "artist": "http://www.billboard.com/artist/301284/drake",
+        "currentRank": "15",
+        "lastWeekRank": "Last Week: 16",
+        "poster2": "http://www.billboard.com/images/pref_images/q55963rka7z.jpg"
+      },
+      {
+        "title": "Gold",
+        "artist": "http://www.billboard.com/artist/6839984/kiiara",
+        "currentRank": "16",
+        "lastWeekRank": "Last Week: 20",
+        "poster2": "http://www.billboard.com/images/pref_images/q50462hj2sc.jpg"
+      },
+      {
+        "title": "Can't Stop The Feeling!",
+        "artist": "http://www.billboard.com/artist/1490153/justin-timberlake",
+        "currentRank": "17",
+        "lastWeekRank": "Last Week: 18",
+        "poster2": "http://www.billboard.com/images/pref_images/q34327sud67.jpg"
+      },
+      {
+        "title": "Side To Side",
+        "artist": "http://www.billboard.com/artist/1484343/ariana-grande",
+        "currentRank": "18",
+        "lastWeekRank": "Last Week: 19",
+        "poster2": "http://www.billboard.com/images/pref_images/q58974jz6ip.jpg"
+      },
+      {
+        "title": "I Hate U I Love U",
+        "artist": "http://www.billboard.com/artist/6833103/gnash",
+        "currentRank": "19",
+        "lastWeekRank": "Last Week: 23",
+        "poster2": "http://www.billboard.com/images/pref_images/q45858cetff.jpg"
+      },
+      {
+        "title": "Into You",
+        "artist": "http://www.billboard.com/artist/1484343/ariana-grande",
+        "currentRank": "20",
+        "lastWeekRank": "Last Week: 17",
+        "poster2": "http://www.billboard.com/images/pref_images/q58974jz6ip.jpg"
+      },
+      {
+        "title": "Forever Country",
+        "artist": "http://www.billboard.com/artist/7526344/artists-of-then-now-forever",
+        "currentRank": "21",
+        "lastWeekRank": "Last Week: --",
+        "poster2": "http://www.billboard.com/images/pref_images/yyyy8708046164970808424.jpg"
+      },
+      {
+        "title": "Luv",
+        "artist": "http://www.billboard.com/artist/5733221/tory-lanez",
+        "currentRank": "22",
+        "lastWeekRank": "Last Week: 21",
+        "poster2": "http://www.billboard.com/images/pref_images/q56666jbafk.jpg"
+      },
+      {
+        "title": "Sucker For Pain",
+        "artist": "http://www.billboard.com/artist/307264/lil-wayne",
+        "currentRank": "23",
+        "lastWeekRank": "Last Week: 22",
+        "poster2": "http://www.billboard.com/images/pref_images/q52102onwz2.jpg"
+      },
+      {
+        "title": "My Way",
+        "artist": "http://www.billboard.com/artist/275856/calvin-harris",
+        "currentRank": "24",
+        "lastWeekRank": "Last Week: --",
+        "poster2": "http://www.billboard.com/images/pref_images/q37000tpld3.jpg"
+      },
+      {
+        "title": "Hymn For The Weekend",
+        "artist": "http://www.billboard.com/artist/299516/coldplay",
+        "currentRank": "25",
+        "lastWeekRank": "Last Week: 26",
+        "poster2": "http://www.billboard.com/images/pref_images/q44977u7wlb.jpg"
+      },
+      {
+        "title": "This Girl",
+        "artist": "http://www.billboard.com/artist/7371557/kungs",
+        "currentRank": "26",
+        "lastWeekRank": "Last Week: 31",
+        "poster2": "http://www.billboard.com/images/pref_images/q57737rhimh.jpg"
+      },
+      {
+        "title": "Unsteady",
+        "artist": "http://www.billboard.com/artist/5894837/x-ambassadors",
+        "currentRank": "27",
+        "lastWeekRank": "Last Week: 29",
+        "poster2": "http://www.billboard.com/images/pref_images/q37409dqics.jpg"
+      },
+      {
+        "title": "Panda",
+        "artist": "http://www.billboard.com/artist/6897402/desiigner",
+        "currentRank": "28",
+        "lastWeekRank": "Last Week: 25",
+        "poster2": "http://www.billboard.com/images/pref_images/q58027oq2us.jpg"
+      },
+      {
+        "title": "Sit Still, Look Pretty",
+        "artist": "http://www.billboard.com/artist/6683644/daya",
+        "currentRank": "29",
+        "lastWeekRank": "Last Week: 32",
+        "poster2": "http://www.billboard.com/images/pref_images/q41127rgsql.jpg"
+      },
+      {
+        "title": "For Free",
+        "artist": "http://www.billboard.com/artist/299939/dj-khaled",
+        "currentRank": "30",
+        "lastWeekRank": "Last Week: 27",
+        "poster2": "http://www.billboard.com/images/pref_images/q57043or8qy.jpg"
+      },
+      {
+        "title": "Starving",
+        "artist": "http://www.billboard.com/artist/6664195/hailee-steinfeld",
+        "currentRank": "31",
+        "lastWeekRank": "Last Week: 33",
+        "poster2": "http://www.billboard.com/images/pref_images/q58043g71qu.jpg"
+      },
+      {
+        "title": "No Limit",
+        "artist": "http://www.billboard.com/artist/430708/usher",
+        "currentRank": "32",
+        "lastWeekRank": "Last Week: 37",
+        "poster2": "http://www.billboard.com/images/pref_images/q57926vlqia.jpg"
+      },
+      {
+        "title": "Controlla",
+        "artist": "http://www.billboard.com/artist/301284/drake",
+        "currentRank": "33",
+        "lastWeekRank": "Last Week: 30",
+        "poster2": "http://www.billboard.com/images/pref_images/q55963rka7z.jpg"
+      },
+      {
+        "title": "The Greatest",
+        "artist": "http://www.billboard.com/artist/279248/sia",
+        "currentRank": "34",
+        "lastWeekRank": "Last Week: 24",
+        "poster2": "http://www.billboard.com/images/pref_images/q48642a2jvd.jpg"
+      },
+      {
+        "title": "Tiimmy Turner",
+        "artist": "http://www.billboard.com/artist/6897402/desiigner",
+        "currentRank": "35",
+        "lastWeekRank": "Last Week: 34",
+        "poster2": "http://www.billboard.com/images/pref_images/q58027oq2us.jpg"
+      },
+      {
+        "title": "Never Be Like You",
+        "artist": "http://www.billboard.com/artist/1493317/flume",
+        "currentRank": "36",
+        "lastWeekRank": "Last Week: 28",
+        "poster2": "http://www.billboard.com/images/pref_images/q54912q1368.jpg"
+      },
+      {
+        "title": "Setting The World On Fire",
+        "artist": "http://www.billboard.com/artist/305717/kenny-chesney",
+        "currentRank": "37",
+        "lastWeekRank": "Last Week: 40",
+        "poster2": "http://www.billboard.com/images/pref_images/q50551vvimx.jpg"
+      },
+      {
+        "title": "Just Like Fire",
+        "artist": "http://www.billboard.com/artist/277117/pnk",
+        "currentRank": "38",
+        "lastWeekRank": "Last Week: 36",
+        "poster2": "http://www.billboard.com/images/pref_images/q34298v1dik.jpg"
+      },
+      {
+        "title": "Work From Home",
+        "artist": "http://www.billboard.com/artist/5665538/fifth-harmony",
+        "currentRank": "39",
+        "lastWeekRank": "Last Week: 35",
+        "poster2": "http://www.billboard.com/images/pref_images/q56395xnf8x.jpg"
+      },
+      {
+        "title": "Starboy",
+        "artist": "http://www.billboard.com/artist/419413/weeknd",
+        "currentRank": "40",
+        "lastWeekRank": "Last Week: --",
+        "poster2": "http://www.billboard.com/images/pref_images/q59123tine7.jpg"
+      },
+      {
+        "title": "Work",
+        "artist": "http://www.billboard.com/artist/365068/rihanna",
+        "currentRank": "41",
+        "lastWeekRank": "Last Week: 41",
+        "poster2": "http://www.billboard.com/images/pref_images/q55103nkulw.jpg"
+      },
+      {
+        "title": "Perfect Illusion",
+        "artist": "http://www.billboard.com/artist/306341/lady-gaga",
+        "currentRank": "42",
+        "lastWeekRank": "Last Week: 15",
+        "poster2": "http://www.billboard.com/images/pref_images/q58741hyawt.jpg"
+      },
+      {
+        "title": "Chill Bill",
+        "artist": "http://www.billboard.com/artist/7469826/rob-tone",
+        "currentRank": "43",
+        "lastWeekRank": "Last Week: 50",
+        "poster2": "http://www.billboard.com/images/pref_images/q58336ymhu5.jpg"
+      },
+      {
+        "title": "Low Life",
+        "artist": "http://www.billboard.com/artist/302577/future",
+        "currentRank": "44",
+        "lastWeekRank": "Last Week: 44",
+        "poster2": "http://www.billboard.com/images/pref_images/q49237v8srf.jpg"
+      },
+      {
+        "title": "I Took A Pill In Ibiza",
+        "artist": "http://www.billboard.com/artist/311215/mike-posner",
+        "currentRank": "45",
+        "lastWeekRank": "Last Week: 43",
+        "poster2": "http://www.billboard.com/images/pref_images/q52485p3ge2.jpg"
+      },
+      {
+        "title": "7 Years",
+        "artist": "http://www.billboard.com/artist/6785452/lukas-graham",
+        "currentRank": "46",
+        "lastWeekRank": "Last Week: 45",
+        "poster2": "http://www.billboard.com/images/pref_images/q58647wqcf6.jpg"
+      },
+      {
+        "title": "H.O.L.Y.",
+        "artist": "http://www.billboard.com/artist/302251/florida-georgia-line",
+        "currentRank": "47",
+        "lastWeekRank": "Last Week: 49",
+        "poster2": "http://www.billboard.com/images/pref_images/q53087oyope.jpg"
+      },
+      {
+        "title": "Different For Girls",
+        "artist": "http://www.billboard.com/artist/300932/dierks-bentley",
+        "currentRank": "48",
+        "lastWeekRank": "Last Week: 42",
+        "poster2": "http://www.billboard.com/images/pref_images/q45942yj4n4.jpg"
+      },
+      {
+        "title": "In The Name Of Love",
+        "artist": "http://www.billboard.com/artist/1567243/martin-garrix",
+        "currentRank": "49",
+        "lastWeekRank": "Last Week: 51",
+        "poster2": "http://www.billboard.com/images/pref_images/q10581snkc1.jpg"
+      },
+      {
+        "title": "Pick Up The Phone",
+        "artist": "http://www.billboard.com/artist/5883339/young-thug",
+        "currentRank": "50",
+        "lastWeekRank": "Last Week: 48",
+        "poster2": "http://www.billboard.com/images/pref_images/q31415s2y27.jpg"
+      },
+      {
+        "title": "Mama Said",
+        "artist": "http://www.billboard.com/artist/6785452/lukas-graham",
+        "currentRank": "51",
+        "lastWeekRank": "Last Week: 46",
+        "poster2": "http://www.billboard.com/images/pref_images/q58647wqcf6.jpg"
+      },
+      {
+        "title": "OOOUUU",
+        "artist": "http://www.billboard.com/artist/7503952/young-m",
+        "currentRank": "52",
+        "lastWeekRank": "Last Week: 67"
+      },
+      {
+        "title": "It Don't Hurt Like It Used To",
+        "artist": "http://www.billboard.com/artist/283473/billy-currington",
+        "currentRank": "53",
+        "lastWeekRank": "Last Week: 55",
+        "poster2": "http://www.billboard.com/images/pref_images/q31201gs60n.jpg"
+      },
+      {
+        "title": "Peter Pan",
+        "artist": "http://www.billboard.com/artist/6276520/kelsea-ballerini",
+        "currentRank": "54",
+        "lastWeekRank": "Last Week: 39",
+        "poster2": "http://www.billboard.com/images/pref_images/q28745ot4o8.jpg"
+      },
+      {
+        "title": "No Problem",
+        "artist": "http://www.billboard.com/artist/4281953/chance-the-rapper",
+        "currentRank": "55",
+        "lastWeekRank": "Last Week: 63",
+        "poster2": "http://www.billboard.com/images/pref_images/q42607qv3hu.jpg"
+      },
+      {
+        "title": "Father Stretch My Hands Pt. 1",
+        "artist": "http://www.billboard.com/artist/276709/kanye-west",
+        "currentRank": "56",
+        "lastWeekRank": "Last Week: 56",
+        "poster2": "http://www.billboard.com/images/pref_images/p83818o1ogs.jpg"
+      },
+      {
+        "title": "Juju On Dat Beat (TZ Anthem)",
+        "currentRank": "57",
+        "lastWeekRank": "Last Week: --"
+      },
+      {
+        "title": "Scars To Your Beautiful",
+        "artist": "http://www.billboard.com/artist/6592648/alessia-cara",
+        "currentRank": "58",
+        "lastWeekRank": "Last Week: 62",
+        "poster2": "http://www.billboard.com/images/pref_images/q58048p3kyi.jpg"
+      },
+      {
+        "title": "Middle Of A Memory",
+        "artist": "http://www.billboard.com/artist/5680583/cole-swindell",
+        "currentRank": "59",
+        "lastWeekRank": "Last Week: 64",
+        "poster2": "http://www.billboard.com/images/pref_images/q44855sdezx.jpg"
+      },
+      {
+        "title": "Blue Ain't Your Color",
+        "artist": "http://www.billboard.com/artist/305660/keith-urban",
+        "currentRank": "60",
+        "lastWeekRank": "Last Week: 73",
+        "poster2": "http://www.billboard.com/images/pref_images/q21684e0670.jpg"
+      },
+      {
+        "title": "Money Longer",
+        "artist": "http://www.billboard.com/artist/7340914/lil-uzi-vert",
+        "currentRank": "61",
+        "lastWeekRank": "Last Week: 54",
+        "poster2": "http://www.billboard.com/images/pref_images/q48776q4k03.jpg"
+      },
+      {
+        "title": "Fade",
+        "artist": "http://www.billboard.com/artist/276709/kanye-west",
+        "currentRank": "62",
+        "lastWeekRank": "Last Week: 47",
+        "poster2": "http://www.billboard.com/images/pref_images/p83818o1ogs.jpg"
+      },
+      {
+        "title": "All In My Head (Flex)",
+        "artist": "http://www.billboard.com/artist/5665538/fifth-harmony",
+        "currentRank": "63",
+        "lastWeekRank": "Last Week: 52",
+        "poster2": "http://www.billboard.com/images/pref_images/q56395xnf8x.jpg"
+      },
+      {
+        "title": "Rock On",
+        "artist": "http://www.billboard.com/artist/7258399/tucker-beathard",
+        "currentRank": "64",
+        "lastWeekRank": "Last Week: 65",
+        "poster2": "http://www.billboard.com/images/pref_images/q53765op7d3.jpg"
+      },
+      {
+        "title": "Caroline",
+        "artist": "http://www.billboard.com/artist/278915/amine",
+        "currentRank": "65",
+        "lastWeekRank": "Last Week: 70",
+        "poster2": "http://www.billboard.com/images/pref_images/q40091vohoe.jpg"
+      },
+      {
+        "title": "Me Too",
+        "artist": "http://www.billboard.com/artist/6155878/meghan-trainor",
+        "currentRank": "66",
+        "lastWeekRank": "Last Week: 53",
+        "poster2": "http://www.billboard.com/images/pref_images/q49331nwlkl.jpg"
+      },
+      {
+        "title": "I Met A Girl",
+        "artist": "http://www.billboard.com/artist/6710253/william-michael-morgan",
+        "currentRank": "67",
+        "lastWeekRank": "Last Week: 71",
+        "poster2": "http://www.billboard.com/images/pref_images/q43007hk51g.jpg"
+      },
+      {
+        "title": "You & Me",
+        "artist": "http://www.billboard.com/artist/6691905/marc-e-bassy",
+        "currentRank": "68",
+        "lastWeekRank": "Last Week: 61",
+        "poster2": "http://www.billboard.com/images/pref_images/q57975y1oh3.jpg"
+      },
+      {
+        "title": "Vice",
+        "artist": "http://www.billboard.com/artist/311432/miranda-lambert",
+        "currentRank": "69",
+        "lastWeekRank": "Last Week: 60",
+        "poster2": "http://www.billboard.com/images/pref_images/q57592jia0k.jpg"
+      },
+      {
+        "title": "1 Night",
+        "artist": "http://www.billboard.com/artist/7340155/lil-yachty",
+        "currentRank": "70",
+        "lastWeekRank": "Last Week: 83",
+        "poster2": "http://www.billboard.com/images/pref_images/q58978thsbl.jpg"
+      },
+      {
+        "title": "Move",
+        "artist": "http://www.billboard.com/artist/308556/luke-bryan",
+        "currentRank": "71",
+        "lastWeekRank": "Last Week: 80",
+        "poster2": "http://www.billboard.com/images/pref_images/q25214yj35v.jpg"
+      },
+      {
+        "title": "Make You Miss Me",
+        "artist": "http://www.billboard.com/artist/5841724/sam-hunt",
+        "currentRank": "72",
+        "lastWeekRank": "Last Week: 57",
+        "poster2": "http://www.billboard.com/images/pref_images/q25172gp1n7.jpg"
+      },
+      {
+        "title": "I Got The Keys",
+        "artist": "http://www.billboard.com/artist/299939/dj-khaled",
+        "currentRank": "73",
+        "lastWeekRank": "Last Week: 59",
+        "poster2": "http://www.billboard.com/images/pref_images/q57043or8qy.jpg"
+      },
+      {
+        "title": "May We All",
+        "artist": "http://www.billboard.com/artist/302251/florida-georgia-line",
+        "currentRank": "74",
+        "lastWeekRank": "Last Week: 86",
+        "poster2": "http://www.billboard.com/images/pref_images/q53087oyope.jpg"
+      },
+      {
+        "title": "A Little More Summertime",
+        "artist": "http://www.billboard.com/artist/304236/jason-aldean",
+        "currentRank": "75",
+        "lastWeekRank": "Last Week: 69",
+        "poster2": "http://www.billboard.com/images/pref_images/q42742cpwh8.jpg"
+      }
+    ]
+  },
+  {
+    "topSongs": []
+  },
+  {
+    "topSongs": [
+      {
+        "title": "Come And See Me",
+        "artist": "http://www.billboard.com/artist/6207248/partynextdoor",
+        "currentRank": "76",
+        "lastWeekRank": "Last Week: 82",
+        "poster2": "http://www.billboard.com/images/pref_images/q58508hu4m1.jpg"
+      },
+      {
+        "title": "Black Beatles",
+        "artist": "http://www.billboard.com/artist/6140339/rae-sremmurd",
+        "currentRank": "77",
+        "lastWeekRank": "Last Week: 96",
+        "poster2": "http://www.billboard.com/images/pref_images/q58167dvbqr.jpg"
+      },
+      {
+        "title": "THat Part",
+        "artist": "http://www.billboard.com/artist/278330/schoolboy-q",
+        "currentRank": "78",
+        "lastWeekRank": "Last Week: 66",
+        "poster2": "http://www.billboard.com/images/pref_images/q13649pg4tg.jpg"
+      },
+      {
+        "title": "I Know Somebody",
+        "artist": "http://www.billboard.com/artist/6605928/locash",
+        "currentRank": "79",
+        "lastWeekRank": "Last Week: 85",
+        "poster2": "http://www.billboard.com/images/pref_images/q36721jog3s.jpg"
+      },
+      {
+        "title": "You Look Like I Need A Drink",
+        "artist": "http://www.billboard.com/artist/1490084/justin-moore",
+        "currentRank": "80",
+        "lastWeekRank": "Last Week: 91",
+        "poster2": "http://www.billboard.com/images/pref_images/q53783t3j8n.jpg"
+      },
+      {
+        "title": "Sleep Without You",
+        "artist": "http://www.billboard.com/artist/6883588/brett-young",
+        "currentRank": "81",
+        "lastWeekRank": "Last Week: 89",
+        "poster2": "http://www.billboard.com/images/pref_images/q53759tn10g.jpg"
+      },
+      {
+        "title": "Gangsta",
+        "artist": "http://www.billboard.com/artist/6311648/kehlani",
+        "currentRank": "82",
+        "lastWeekRank": "Last Week: 74",
+        "poster2": "http://www.billboard.com/images/pref_images/q33482jwzf0.jpg"
+      },
+      {
+        "title": "Wat U Mean (Aye, Aye, Aye)",
+        "artist": "http://www.billboard.com/artist/7361605/dae-dae",
+        "currentRank": "83",
+        "lastWeekRank": "Last Week: 68",
+        "poster2": "http://www.billboard.com/images/pref_images/q49687sdzte.jpg"
+      },
+      {
+        "title": "X",
+        "artist": "http://www.billboard.com/artist/7447109/21-savage",
+        "currentRank": "84",
+        "lastWeekRank": "Last Week: 98",
+        "poster2": "http://www.billboard.com/images/pref_images/q57573eyafj.jpg"
+      },
+      {
+        "title": "Too Much Sauce",
+        "artist": "http://www.billboard.com/artist/7496310/dj-esco",
+        "currentRank": "85",
+        "lastWeekRank": "Last Week: 81"
+      },
+      {
+        "title": "Why You Always Hatin?",
+        "artist": "http://www.billboard.com/artist/5862674/yg",
+        "currentRank": "86",
+        "lastWeekRank": "Last Week: 77",
+        "poster2": "http://www.billboard.com/images/pref_images/q09114c2d72.jpg"
+      },
+      {
+        "title": "Key To The Streets",
+        "artist": "http://www.billboard.com/artist/6883931/yfn-lucci",
+        "currentRank": "87",
+        "lastWeekRank": "Last Week: --"
+      },
+      {
+        "title": "Do You Mind",
+        "artist": "http://www.billboard.com/artist/299939/dj-khaled",
+        "currentRank": "88",
+        "lastWeekRank": "Last Week: 95",
+        "poster2": "http://www.billboard.com/images/pref_images/q57043or8qy.jpg"
+      },
+      {
+        "title": "Hold Up",
+        "artist": "http://www.billboard.com/artist/281569/beyonce",
+        "currentRank": "89",
+        "lastWeekRank": "Last Week: 88",
+        "poster2": "http://www.billboard.com/images/pref_images/q34952rl4dy.jpg"
+      },
+      {
+        "title": "Purple Lamborghini",
+        "artist": "http://www.billboard.com/artist/279545/skrillex",
+        "currentRank": "90",
+        "lastWeekRank": "Last Week: 78",
+        "poster2": "http://www.billboard.com/images/pref_images/q32726djczt.jpg"
+      },
+      {
+        "title": "Cancer",
+        "artist": "http://www.billboard.com/artist/430557/twenty-one-pilots",
+        "currentRank": "91",
+        "lastWeekRank": "Last Week: --",
+        "poster2": "http://www.billboard.com/images/pref_images/q39056czrzc.jpg"
+      },
+      {
+        "title": "My PYT",
+        "artist": "http://www.billboard.com/artist/6164689/wale",
+        "currentRank": "92",
+        "lastWeekRank": "Last Week: 84"
+      },
+      {
+        "title": "You Was Right",
+        "artist": "http://www.billboard.com/artist/7340914/lil-uzi-vert",
+        "currentRank": "93",
+        "lastWeekRank": "Last Week: 99",
+        "poster2": "http://www.billboard.com/images/pref_images/q48776q4k03.jpg"
+      },
+      {
+        "title": "With You Tonight / Hasta El Amanecer",
+        "artist": "http://www.billboard.com/artist/312262/nicky-jam",
+        "currentRank": "94",
+        "lastWeekRank": "Last Week: 92",
+        "poster2": "http://www.billboard.com/images/pref_images/q38757c6sl3.jpg"
+      },
+      {
+        "title": "Wishing",
+        "artist": "http://www.billboard.com/artist/276016/dj-drama",
+        "currentRank": "95",
+        "lastWeekRank": "Last Week: 93",
+        "poster2": "http://www.billboard.com/images/pref_images/p79630rlqxs.jpg"
+      },
+      {
+        "title": "Grass Ain't Greener",
+        "artist": "http://www.billboard.com/artist/1486846/chris-brown",
+        "currentRank": "96",
+        "lastWeekRank": "Last Week: 94",
+        "poster2": "http://www.billboard.com/images/pref_images/q12107b6dlh.jpg"
+      },
+      {
+        "title": "Goosebumps",
+        "artist": "http://www.billboard.com/artist/6693456/travis-scott",
+        "currentRank": "97",
+        "lastWeekRank": "Last Week: --",
+        "poster2": "http://www.billboard.com/images/pref_images/q39869glvzs.jpg"
+      },
+      {
+        "title": "No Shopping",
+        "artist": "http://www.billboard.com/artist/302488/french-montana",
+        "currentRank": "98",
+        "lastWeekRank": "Last Week: 97",
+        "poster2": "http://www.billboard.com/images/pref_images/q12792xj888.jpg"
+      },
+      {
+        "title": "You Don't Own Me",
+        "artist": "http://www.billboard.com/artist/6559171/grace",
+        "currentRank": "99",
+        "lastWeekRank": "Last Week: 100",
+        "poster2": "http://www.billboard.com/images/pref_images/q33044hrlkj.jpg"
+      },
+      {
+        "title": "Lockjaw",
+        "artist": "http://www.billboard.com/artist/302488/french-montana",
+        "currentRank": "100",
+        "lastWeekRank": "Last Week: --",
+        "poster2": "http://www.billboard.com/images/pref_images/q12792xj888.jpg"
+      }
+    ]
+  },
+  {
+    "topSongs": []
+  },
+  {
+    "topSongs": []
+  },
+  {
+    "topSongs": []
+  }
+]

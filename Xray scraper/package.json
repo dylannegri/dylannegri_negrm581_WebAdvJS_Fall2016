@@ -1,0 +1,18 @@
+{
+  "name": "xray-scraper",
+  "version": "1.0.0",
+  "description": "scraper api\u001b[D\u001b[D\u001b[-\u001b[C\u001b[C\u001b[C",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "'/c/Users/Dylan/Desktop/dylannegri_negrm581_WebAdvJS_Fall2016/Xray scraper'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "x-ray": "^2.3.0"
+  }
+}
