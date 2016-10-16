@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Welp: Worst Yelp</title>
+</head>
+<body>
+<h1>Hello World!</h1>
+
+<div id="container">
+	<div id="results"></div>
+</div>
+
+	<script id="restaurantsTPL" type="text/template">
+		{{#restaurants}}
+		<div class="restaurants">
+			<img src="{{image}}" alt="Photo of {{name}}">
+			<h3>{{name}}</h3>
+			<h4>{{style}}</h4>
+			<h5>{{address}}</h5>
+			<img src="{{rating}}">
+			<p>{{review}}</p>
+		</div>
+		{{/restaurants}}
+	</script>
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js" type="text/javascript"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.cycle/3.0.3/jquery.cycle.all.min.js" type="text/javascript"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/mustache.js/2.2.1/mustache.min.js" type="text/javascript"></script>
+
+	<script src="script.js" type="text/javascript"></script>
+</body>
+</html> 

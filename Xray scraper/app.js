@@ -6,7 +6,7 @@ var x = Xray();
 // 3rd argument: the array containing object of what you want to be passed on
 x('http://www.billboard.com/charts/hot-100', '.container', [{
 	topSongs: x('.chart-row__primary', [{
-		title: '.chart-row__container .chart-row__title .chart-row__song',
+		title: /*.chart-row__container .chart-row__title*/ '.chart-row__song',
 		artist: '.chart-row__container .chart-row__title a@href',
 		// year: '.lister-item-year',
 		currentRank: '.chart-row__rank .chart-row__current-week',
