@@ -4,8 +4,8 @@ $(document).ready(function(){
 	$(function(){
 		$.getJSON('results.json', function(data){
 			console.log("getting json");
-			var template = $('#restaurantsTPL').html();
-			var html = Mustache.to_html(template, data);
+			var template = $('#template').html();
+			var html = Mustache.render(template, data);
 			$('#results').html(html);
 		});
 	});
