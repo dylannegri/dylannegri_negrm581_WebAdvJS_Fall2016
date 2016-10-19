@@ -1,0 +1,97 @@
+h1 {
+	font-size: 4em;
+	font-weight: bold;
+	text-align: center;
+	font-family: 'Varela Round', sans-serif;
+	color: rgba(255,0,0,0.7);
+}
+h3{
+	font-size: 1.5em;
+	font-weight: bold;
+	text-align: center;
+	font-family: 'Varela Round', sans-serif;
+	color: rgba(255,0,0,0.7);
+}
+body{
+	background-color: rgb(50,0,0);
+	font-family: 'Libre Baskerville', serif;
+}
+#container{
+	width: 800px;
+	height: auto;
+	background: rgba(0,0,0,.5);
+	padding: 1px 20px;
+	border-radius: 10px;
+	/*overflow: hidden;*/
+	
+}
+#container h2, #container h4, #container h5 {
+	font-weight: normal;
+	margin: 0;
+	padding: 0;
+}
+#container h2{
+	color: darkblue;
+	font-size: 2em;
+	font-weight: bold;
+	line-height: 1.2em;
+	font-family:'Libre Baskerville', sans-serif; 
+	margin-bottom: 5px;
+}
+#container h4, #container h5{
+	color: rgb(50,50,255);
+	font-weight: bold;
+	margin-bottom: 5px;
+	line-height: 1.5em;
+}
+#container img{
+	float: right;
+	margin-left: 5px;
+	border-radius: 6px;
+	width: 100px;
+}
+#container p{
+	font-size: 1em;
+}
+#nav_next a#next_btn{
+	float: right;
+	margin-top: 1px;
+	margin-right: 10vw;
+	margin-bottom: 10px;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+	font-size: 4em;
+}
+ #nav_prev a#prev_btn{
+ 	float: left;
+	margin-top: 1px;
+	margin-left: 10vw;
+	margin-bottom: 10px;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+	font-size: 4em;
+ }
+ #container a{
+ 	text-decoration: none;
+ }
+#results{
+	margin-top: 80px;
+	padding: auto;
+	width: 800px;
+}
+.tmpl{
+	background: rgb(230,200,200);
+	padding: 8px;
+	border-radius: 6px;
+	/*width: 100vw;*/
+}
+@media screen and (min-width: 100px) and (max-width: 400px;) {
+	#results{
+		width: 300px;
+	}
+	#container{
+		width: 300px;
+	}
+}
