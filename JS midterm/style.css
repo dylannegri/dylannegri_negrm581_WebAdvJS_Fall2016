@@ -21,7 +21,7 @@ body{
 	height: bottom;
 	margin:auto;
 	padding-left: 10vw;
-	background: rgba(220,200,200,0.9);
+	background: rgba(220,200,200,1);
 	/*background: rgba(0,0,0,.5);*/
 	padding: 1px 20px;
 	border-radius: 10px;
@@ -61,7 +61,7 @@ body{
 	margin-top: 1px;
 	margin-right: 10vw;
 	margin-bottom: 10px;
-	color: white;
+	color: rgb(10,10,75);
 	text-decoration: none;
 	font-size: 4em;
 }
@@ -70,7 +70,7 @@ body{
 	margin-top: 1px;
 	margin-left: 10vw;
 	margin-bottom: 10px;
-	color: white;
+	color: rgb(10,10,75);
 	text-decoration: none;
 	font-size: 4em;
  }
@@ -83,7 +83,6 @@ body{
 	padding: auto;
 	padding-left: 10%;
 	width: 90% !important;
-	overflow: auto;
 }
 .tmpl{
 	background: rgb(220,200,200);
